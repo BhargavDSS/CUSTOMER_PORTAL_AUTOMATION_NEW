@@ -1,0 +1,7 @@
+{
+  "browser": "edge",
+  "headless_mode": false,
+  "base_url": "https://gedev.davisware.com/CustomerPortalQA",
+  "chrome_driver_manager": true,
+  "timeout": 10
+}

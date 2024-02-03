@@ -1,0 +1,13 @@
+class LogInPageLocators:
+    email = "xpath-->//input[@id='#txt_lgn_EmailAddr']"
+    password = "xpath-->//input[@id='#txt_lgn_password']"
+    checkbox = "xpath-->//span[@class='mat-checkbox-inner-container']"
+    login_button = "xpath-->//button[@id='#btn_lgn_login']"
+    logOut = "xpath-->//span[text()='Logout']"
+    userbutton = "xpath-->//div[contains(@class,'cdk-overlay-backdrop cdk-overlay-transparent-backdrop')]"
+    username = "xpath-->//span[@class='usernm']"
+    login_title = "xpath-->//h2[normalize-space()='Customer Portal']"
+    try_again_button = "xpath-->//button[@id='#btn_mp_tryagain']"
+    request_account_button = "xpath-->//button[@id='#btn_mp_requestaccount']"
+    settings_arrow = "xpath-->//span[@class='material-icons icon_clr']"
+    first_name = "xpath-->//div[@id='#divName']"
